@@ -1,6 +1,7 @@
 # LedgerLift Lead Triage Agent
 
 An intelligent AI-powered lead triage system built with n8n that automatically processes, categorizes, and routes inbound leads from Google Sheets.
+<img width="1781" height="635" alt="image" src="https://github.com/user-attachments/assets/638663ec-b4db-4884-a5c9-c59ae30ec797" />
 
 ## Overview
 
